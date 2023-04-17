@@ -1,4 +1,5 @@
 {
-  "dl": "https://crates.io/api/v1/crates",
-  "api": "https://crates.io"
+  "dl": "http:///localcache:8855/api/v1/mirror",
+  "api": "http:///localcache:8855"
 }
+
